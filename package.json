@@ -1,0 +1,21 @@
+{
+    "name": "wilders",
+    "version": "1.0.0",
+    "description": "Workshop 16.01.24 node",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "node",
+        "workshop",
+        "javascript"
+    ],
+    "author": "TeddyAgt",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.4.1",
+        "cowsay": "^1.6.0"
+    }
+}
